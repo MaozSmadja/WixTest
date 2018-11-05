@@ -1,0 +1,9 @@
+2018-10-28 14:48:37 INFO  TestBase:44 - Executing on chrome
+2018-10-28 14:48:42 INFO  TestBase:10 - Started testing: test method
+2018-10-28 14:48:42 INFO  TestBase:44 - Executing on chrome
+2018-10-28 14:48:45 INFO  TestBase:10 - Started testing: pressAdminTab method
+2018-10-28 14:48:51 INFO  TestBase:38 - Executing on firefox
+2018-10-28 14:48:54 INFO  TestBase:38 - Executing on firefox
+2018-10-28 14:48:54 INFO  TestBase:10 - Started testing: pressAdminTab method
+2018-10-28 14:48:57 INFO  TestBase:10 - Started testing: test method
+2018-10-28 14:49:14 INFO  TestBase:22 - Test Failed: pressAdminTab method
